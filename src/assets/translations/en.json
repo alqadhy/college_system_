@@ -1,0 +1,68 @@
+{
+  "top_bar": {
+    "welcome_msg": "Your future starts here!",
+    "lang_label": "Language:",
+    "call_us": "Call Us"
+  },
+  "inistituation_name": "UE Instituation",
+  "links": {
+    "home": "Home",
+    "about": "About",
+    "contact_us": "Contact Us",
+    "faqs": "FAQs",
+    "login": "Login"
+  },
+  "menu_heading": "Menu",
+  "hero": {
+    "heading": "EU Higher Institutions For Computer Science And IT",
+    "paragraph": "A modern, secure, and fully integrated college management system that streamlines student services, instructor tools, and administrative operations—all in one unified platform.",
+    "button_txt": "Learn More"
+  },
+  "features": {
+    "feature1": {
+      "title": "Smart Student Services",
+      "desc": "A digital platform that enables students to easily access schedules, grades, assignments, and academic records from any device—anytime, anywhere."
+    },
+    "feature2": {
+      "title": "Advanced Instructor Tools",
+      "desc": "A complete set of tools for instructors to manage courses, upload materials, track student performance, and communicate directly with their classes."
+    },
+    "feature3": {
+      "title": "Secure Administration System",
+      "desc": "A powerful admin dashboard that simplifies admissions, payments, certificates, and internal operations with top-tier security and full data protection."
+    },
+    "feature4": {
+      "title": "Mobile-Friendly Modern Platform",
+      "desc": "A responsive and accessibility-friendly interface designed to deliver an exceptional user experience on all devices, from desktops to mobile."
+    }
+  },
+  "section_headings": {
+    "stats": "Stats",
+    "top_instructors": "Top Instructors",
+    "how_the_system_works": "How The System Works?",
+    "our_departments": "Our Departments",
+    "call_to_action": "Start Your Journey Today!"
+  },
+  "stats": {
+    "students": "Students",
+    "instructors": "Instructors",
+    "departments": "Departments",
+    "events": "Events"
+  },
+  "departments": {
+    "cs": "Computer Science",
+    "is": "Information Systems",
+    "bm": "Business Management",
+    "th": "Tourism & Hotels"
+  },
+  "how_to_use_system_steps": {
+    "first_step": "Login to your account",
+    "second_step": "Access your dashboard",
+    "third_step": "View courses and manage your academic life!"
+  },
+  "footer_headings": {
+    "links": "Links",
+    "contact_info": "Contact Info",
+    "social_media": "Social Media"
+  }
+}

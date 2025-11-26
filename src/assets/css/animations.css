@@ -1,0 +1,12 @@
+/* Start Header Activate Animation */
+@keyframes headerActivateAnimation {
+  from {
+    transform: translateY(-100%);
+  }
+
+  to {
+    transform: translateY(0);
+  }
+}
+
+/* End Header Activate Animation */

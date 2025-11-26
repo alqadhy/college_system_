@@ -1,0 +1,71 @@
+/* Start TopBar */
+[lang="ar"] .top-bar .left p {
+  padding-left: 15px;
+  border-left: 1px solid var(--white-color);
+  margin-left: 15px;
+}
+
+/* End TopBar */
+/* Start SelectBox */
+[lang="ar"] .select-box .icon {
+  right: initial;
+  left: 6px;
+}
+
+/* End SelectBox */
+/* Start Header */
+[lang="ar"] header nav {
+  transform: translateX(0);
+}
+
+/* End Header */
+/* Start MainBtn */
+[lang="ar"] .main-btn::before {
+  left: initial;
+  right: 0;
+}
+
+/* End MainBtn */
+/* Start MobileMenu */
+[lang="ar"] .mobile-menu {
+  left: 0;
+  transform: translateX(-100%);
+}
+
+[lang="ar"] .mobile-menu .links a:hover {
+  padding-left: 0;
+  padding-right: 10px;
+}
+
+[lang="ar"] .mobile-menu .links a .icon {
+  transform: rotate(.5turn);
+}
+
+/* End MobileMenu */
+/* Start Icon-Container */
+[lang="ar"] .icon-container {
+  left: initial;
+  right: 20px;
+}
+
+[lang="ar"] .features .ft-box:hover .icon-container {
+  right: 50%;
+  transform: translate(50%, -50%);
+}
+
+/* End Icon-Container */
+/* Start Features */
+[lang="ar"] .features .ft-box a::after {
+  left: initial;
+  right: 0;
+}
+
+/* End Features */
+/* Start Call To Action */
+[lang="ar"] .call-to-action::after {
+  right: initial;
+  left: 0;
+  transform: translate(-50%, -50%);
+}
+
+/* End Call To Action */
